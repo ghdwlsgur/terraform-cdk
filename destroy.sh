@@ -1,0 +1,1 @@
+cdktf destroy --auto-approve
